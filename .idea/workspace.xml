@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="548a56e5-0f62-43f6-9168-eb925c6e5b37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ejercicio2/Condicionales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio3/ejercicio3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +36,7 @@
   "keyToString": {
     "Application.Condicionales.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.ejercicio3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -44,7 +45,7 @@
     "onboarding.tips.debug.path": "D:/proyectos-en-proceso/INTELLIJ/6-conversor-de-monedas/practicando/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Condicionales">
+  <component name="RunManager" selected="Application.ejercicio3">
     <configuration name="Condicionales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ejercicio2.Condicionales" />
       <module name="practicando" />
@@ -71,8 +72,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ejercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio3.ejercicio3" />
+      <module name="practicando" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ejercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ejercicio3" />
         <item itemvalue="Application.Condicionales" />
         <item itemvalue="Application.Main" />
       </list>
