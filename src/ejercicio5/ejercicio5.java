@@ -20,15 +20,46 @@ public class ejercicio5 {
         switch (numeroUsuario) {
             case 1:
                 convertido = "uno";
-                System.out.println(convertido);
+                System.out.println("Se escribe: "+convertido);
                 break;
             case 2: convertido = "dos";
-                System.out.println(convertido);
+                System.out.println("Se escribe: "+convertido);
                 break;
             case 3:
                 convertido = "tres";
-                System.out.println(convertido);
+                System.out.println("Se escribe: "+convertido);
                 break;
+            case 4:
+                convertido = "cuatro";
+                System.out.println("Se escribe: "+convertido);
+                break;
+            case 5:
+                convertido = "cinco";
+                System.out.println("Se escribe: "+convertido);
+                break;
+            case 6:
+                convertido = "seis";
+                System.out.println("Se escribe: "+convertido);
+                break;
+            case 7:
+                convertido = "siete";
+                System.out.println("Se escribe: "+convertido);
+                break;
+            case 8:
+                convertido = "ocho";
+                System.out.println("Se escribe: "+convertido);
+                break;
+            case 9:
+                convertido = "nueve";
+                System.out.println("Se escribe: "+convertido);
+                break;
+            case 10:
+                convertido = "diez";
+                System.out.println("Se escribe: "+convertido);
+                break;
+
+
+
         }
 
 
